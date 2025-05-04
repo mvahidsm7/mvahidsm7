@@ -34,6 +34,7 @@ I'm a passionate fullstack developer. I enjoy learning new technologies, experim
 
 ### 📫 Contact me:
 - **Email:** mvahidsm7@gmail.com
+- **Telegram:** @zbsjofdz
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mvahidsm7&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="mvahidsm7" height="195px" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mvahidsm7&show_icons=true&theme=highcontrast&locale=en" alt="mvahidsm7" /></p>
